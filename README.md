@@ -1,6 +1,6 @@
 ## 码匠社区
 
 ## 资料
-spring.io/guides  
+http://spring.io/guides  
 
 ## 工具
